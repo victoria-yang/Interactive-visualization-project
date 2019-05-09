@@ -4,7 +4,7 @@ The purpose of this project is to visualize the correlation between student's pe
 
 * [My Shiny App](https://victoriayang.shinyapps.io/interactive-visualization/)
 
-<img align="center" width = "850" src="https://github.com/victoria-yang/interactive-visualization/blob/master/ShinyGif.gif">
+<img align="center" width = "850" src="https://github.com/victoria-yang/interactive-visualization-project/blob/master/ShinyGif.gif">
 
 ## Procedure
 * **Data Wrangling** 
@@ -36,7 +36,7 @@ The purpose of this project is to visualize the correlation between student's pe
     The user can select two topics or test types and play with the data to see the relationship between them. If the user is interested in the raw data, he or she can click on more -> datasets to see the raw data.
 
 ## Dataset Info
-<img align="center" width = "850" src="https://github.com/victoria-yang/interactive-visualization/blob/master/DatasetInfo.gif">
+<img align="center" width = "850" src="https://github.com/victoria-yang/interactive-visualization-project/blob/master/DatasetInfo.gif">
 
 - **student_performance.csv**
     - Description: This dataset shows the correctness of each student in each item of the midterm test. There are 30 items in total.
@@ -66,15 +66,15 @@ The purpose of this project is to visualize the correlation between student's pe
 
 As we can see in the visualization, student’s performance in some topics are more related to higher total score. For instance, if you select coding as y axis and total as x axis, you can see that student’s correctness in coding items has a high correlation to their total score. This pattern is also similar to nlp and viz items. 
 
-<img align="center" width = "600" src="https://github.com/victoria-yang/interactive-visualization/blob/master/coding_total.png">
+<img align="center" width = "600" src="https://github.com/victoria-yang/interactive-visualization-project/blob/master/coding_total.png">
 
 While d.tree item seems to has less correlation to the total score. (There is a dot appears at unreasonable place and I will fix that later…)
 
-<img align="center" width = "600" src="https://github.com/victoria-yang/interactive-visualization/blob/master/d.tree_total.png">
+<img align="center" width = "600" src="https://github.com/victoria-yang/interactive-visualization-project/blob/master/d.tree_total.png">
 
 The results of four different question types are showed in the following gif. Interestingly, the correctness of googleable items seems to has the highest correlation to the total score than other types of item.
 
-<img align="center" width = "600" src="https://github.com/victoria-yang/interactive-visualization/blob/master/types_total.gif">
+<img align="center" width = "600" src="https://github.com/victoria-yang/interactive-visualization-project/blob/master/types_total.gif">
 
 ## Limitations
 
