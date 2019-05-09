@@ -1,6 +1,6 @@
 # Interactive Visualization
 
-The purpose of this project is to visualize the correlation between student's performance in different test items.
+The purpose of this project is to visualize the relationsips between student's performance in different types of test items.
 
 * [My Shiny App](https://victoriayang.shinyapps.io/interactive-visualization/)
 
