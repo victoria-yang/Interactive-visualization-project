@@ -84,13 +84,13 @@ The results of four different question types are showed in the following gif. In
 
 * **The constructs of each topic and item type can overlap in a certain degree**
 
-    So we cannot expect the the results of this project can be analogized to other courses.
+    So we cannot expect the the results of this project can be analogized to other courses. Regression Analysis is need to gain more rigorous inferences.
 
 * **The number of items related to different topics is severely unbalanced**
 
     We can see that some topics contains 15 items and some just 3. 
 
-* **The correlation could be overestimated by visually inspect these plots just because the number of items represent of certain topics is larger than another**
+* **The correlation could be overestimated by visually inspect these plots just because the number of items represent certain topics is larger than another**
 
     We can see that if a topic contains more items, that topic seems to have higher correlation to the total score. The remedial ways to deal with this problem could be to calculate the correlation coefficient and draw the regression line to the visualization.
 
