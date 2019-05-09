@@ -94,7 +94,7 @@ The results of four different question types are showed in the following gif. In
 
     We can see that if a topic contains more items, that topic seems to have higher correlation to the total score. The remedial ways to deal with this problem could be to calculate the correlation coefficient and draw the regression line to the visualization.
 
-* **Some dot are hidden because they are in the same position on the plot**
+* **Some dots are hidden because they are at the same position on the plot**
 
     There are 26 students in total but some plots shows less than 26 dots. Some methods should be utilized to spread those overlapping dots without move them too far way from their orginal position.
 
