@@ -84,7 +84,7 @@ The results of four different question types are showed in the following gif. In
 
 * **The constructs of each topic and item type can overlap in a certain degree**
 
-    So we cannot expect the the results of this project can be analogized to other courses. Regression Analysis is need to gain more rigorous inferences.
+    So we cannot expect the the results of this project can be analogized to other courses. Regression Analysis is needed to gain more rigorous inferences.
 
 * **The number of items related to different topics is severely unbalanced**
 
